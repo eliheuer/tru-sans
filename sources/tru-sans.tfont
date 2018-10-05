@@ -1,0 +1,593 @@
+{
+".formatVersion": 0,
+"date": "2018-10-05 16:07:54",
+"familyName": "New Font",
+"glyphs": [
+{
+"name": "A",
+"unicodes": [
+"0041"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600,
+"paths": [
+[
+[158.31325301204825,699.7590361445784,"line"],
+[468.6746987951808,703.132530120482,"line"],
+[576.6265060240964,4.81927710843379,"line"],
+[360.72289156626516,8.192771084337405,"line"],
+[340.4819277108434,264.57831325301214,"line"],
+[283.132530120482,261.2048192771085,"line"],
+[259.5180722891567,-1.9277108433734393,"line"],
+[36.86746987951813,4.81927710843379,"line"]
+],
+[
+[330.3614457831326,325.3012048192772,"line"],
+[303.37349397590367,504.0963855421688,"line"],
+[286.5060240963856,318.55421686746996,"line"]
+]
+]
+}
+]
+},
+{
+"name": "B",
+"unicodes": [
+"0042"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "C",
+"unicodes": [
+"0043"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "D",
+"unicodes": [
+"0044"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "E",
+"unicodes": [
+"0045"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "F",
+"unicodes": [
+"0046"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "G",
+"unicodes": [
+"0047"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "H",
+"unicodes": [
+"0048"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "I",
+"unicodes": [
+"0049"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "J",
+"unicodes": [
+"004A"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "K",
+"unicodes": [
+"004B"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "L",
+"unicodes": [
+"004C"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "M",
+"unicodes": [
+"004D"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "N",
+"unicodes": [
+"004E"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "O",
+"unicodes": [
+"004F"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "P",
+"unicodes": [
+"0050"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "Q",
+"unicodes": [
+"0051"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "R",
+"unicodes": [
+"0052"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "S",
+"unicodes": [
+"0053"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "T",
+"unicodes": [
+"0054"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "U",
+"unicodes": [
+"0055"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "V",
+"unicodes": [
+"0056"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "W",
+"unicodes": [
+"0057"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "X",
+"unicodes": [
+"0058"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "Y",
+"unicodes": [
+"0059"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "Z",
+"unicodes": [
+"005A"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "a",
+"unicodes": [
+"0061"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "b",
+"unicodes": [
+"0062"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "c",
+"unicodes": [
+"0063"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "d",
+"unicodes": [
+"0064"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "e",
+"unicodes": [
+"0065"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "f",
+"unicodes": [
+"0066"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "g",
+"unicodes": [
+"0067"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "h",
+"unicodes": [
+"0068"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "i",
+"unicodes": [
+"0069"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "j",
+"unicodes": [
+"006A"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "k",
+"unicodes": [
+"006B"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "l",
+"unicodes": [
+"006C"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "m",
+"unicodes": [
+"006D"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "n",
+"unicodes": [
+"006E"
+],
+"layers": [
+{
+"masterName": "Regular",
+"width": 600
+}
+]
+},
+{
+"name": "o",
+"unicodes": [
+"006F"
+]
+},
+{
+"name": "p",
+"unicodes": [
+"0070"
+]
+},
+{
+"name": "q",
+"unicodes": [
+"0071"
+]
+},
+{
+"name": "r",
+"unicodes": [
+"0072"
+]
+},
+{
+"name": "s",
+"unicodes": [
+"0073"
+]
+},
+{
+"name": "t",
+"unicodes": [
+"0074"
+]
+},
+{
+"name": "u",
+"unicodes": [
+"0075"
+]
+},
+{
+"name": "v",
+"unicodes": [
+"0076"
+]
+},
+{
+"name": "w",
+"unicodes": [
+"0077"
+]
+},
+{
+"name": "x",
+"unicodes": [
+"0078"
+]
+},
+{
+"name": "y",
+"unicodes": [
+"0079"
+]
+},
+{
+"name": "z",
+"unicodes": [
+"007A"
+]
+},
+{
+"name": "space",
+"unicodes": [
+"0020"
+]
+}
+],
+"masters": {
+"Regular": {
+"name": "Regular",
+"ascender": 800,
+"capHeight": 700,
+"descender": -200,
+"xHeight": 500
+}
+},
+"unitsPerEm": 1000,
+"versionMajor": 1
+}
